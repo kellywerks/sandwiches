@@ -7,12 +7,13 @@ A quick and simple sandwich good for morning refuelling, a quick lunch, or a sna
 - 1 egg
 - 1 slice cheddar cheese
 - 1 English muffin
+- 1 roasted green chile, preferably Hatch, chopped
 
 ### Make It
 1. Cook bacon.
-2. Cook egg(s) in the bacon grease.
+2. Cook egg(s) and green chile in the bacon grease.
 3. Toast muffin.
-3. Assemble with cheese between bacon and egg.
+3. Assemble with cheese between bacon and egg and green chile.
 
 ### Versatility
 
