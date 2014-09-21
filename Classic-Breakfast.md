@@ -24,6 +24,7 @@ While delicious on its own, the Classic Breakfast is easily tweaked to utilize i
   - Smoked salmon.
   - Dungeness crab (great broiled).
   - Grilled tuna.
+3. Half an avocado.
 3. Different cheeses:
   - Swiss
   - Casu Marzu
