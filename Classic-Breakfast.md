@@ -20,7 +20,7 @@ While delicious on its own, the Classic Breakfast is easily tweaked to utilize i
 
 1. Spread home-made preserves on the muffin.
 2. Substitute meat:
-  - Canadian bacon.
+  - Ham.
   - Smoked salmon.
   - Dungeness crab (great broiled).
   - Grilled tuna.
