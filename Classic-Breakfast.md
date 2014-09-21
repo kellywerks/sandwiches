@@ -27,6 +27,9 @@ While delicious on its own, the Classic Breakfast is easily tweaked to utilize i
 3. Half an avocado.
 3. Different cheeses:
   - Swiss
+  - Mozarella
   - Casu Marzu
+  - Monterey Jack
+  - Mix and match for endless flavor permutations!
 4. Your favorite veggies.
 5. Half of a Hershey bar.
