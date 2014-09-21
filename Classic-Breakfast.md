@@ -5,7 +5,7 @@ A quick and simple sandwich good for morning refuelling, a quick lunch, or a sna
 ### Ingredients per sandwich
 - 3 strips of bacon
 - 1 egg
-- 1 slice cheese
+- 1 slice cheddar cheese
 - 1 English muffin
 
 ### Make It
@@ -20,10 +20,16 @@ While delicious on its own, the Classic Breakfast is easily tweaked to utilize i
 
 1. Spread home-made preserves on the muffin.
 2. Substitute meat:
-  - Canadian bacon.
+  - Ham.
   - Smoked salmon.
   - Dungeness crab (great broiled).
   - Grilled tuna.
-3. Different cheeses.
+3. Half an avocado.
+3. Different cheeses:
+  - Swiss
+  - Mozarella
+  - Casu Marzu
+  - Monterey Jack
+  - Mix and match for endless flavor permutations!
 4. Your favorite veggies.
 5. Half of a Hershey bar.
